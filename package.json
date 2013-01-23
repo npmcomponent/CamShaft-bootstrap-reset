@@ -7,7 +7,7 @@
     "url": "git://github.com/CamShaft/bootstrap-reset.git"
   },
   "author": "",
-  "license": "BSD",
+  "license": "APLv2",
   "readmeFilename": "Readme.md",
   "devDependencies": {
     "bootstrap": "https://github.com/twitter/bootstrap/archive/v2.2.2.tar.gz",
