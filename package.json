@@ -1,0 +1,16 @@
+{
+  "name": "bootstrap-reset",
+  "version": "2.2.2",
+  "description": "Bootstrap Reset Component",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CamShaft/bootstrap-reset.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "Readme.md",
+  "devDependencies": {
+    "bootstrap": "https://github.com/twitter/bootstrap/archive/v2.2.2.tar.gz",
+    "recess": "~1.1.6"
+  }
+}
